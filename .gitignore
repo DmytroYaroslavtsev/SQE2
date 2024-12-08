@@ -1,0 +1,10 @@
+*.db
+*.log
+*.tmp
+*.bak
+*.cache
+
+target/
+bin/
+temp/
+build/
