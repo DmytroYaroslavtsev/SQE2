@@ -1,0 +1,6 @@
+*.db
+*.log
+*.tmp
+*.bak
+*.cache
+
