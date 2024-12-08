@@ -4,3 +4,7 @@
 *.bak
 *.cache
 
+target/
+bin/
+temp/
+build/
